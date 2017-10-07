@@ -1,0 +1,7 @@
+org/ipn/sistemaventas/dao/impl/ClienteDAOImpl.class
+org/ipn/sistemaventas/service/impl/ClienteServiceImpl.class
+org/ipn/sistemaventas/dao/SistemaVentasConnection.class
+org/ipn/sistemaventas/model/ClienteDTO.class
+org/ipn/sistemaventas/dao/ClienteDAO.class
+org/ipn/sistemaventas/controller/ClienteController.class
+org/ipn/sistemaventas/service/ClienteService.class

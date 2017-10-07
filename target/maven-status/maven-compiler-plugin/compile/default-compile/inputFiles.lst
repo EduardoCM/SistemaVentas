@@ -1,0 +1,7 @@
+/Users/edcastillo/NetBeansProjects/SistemaVentas/src/main/java/org/ipn/sistemaventas/controller/ClienteController.java
+/Users/edcastillo/NetBeansProjects/SistemaVentas/src/main/java/org/ipn/sistemaventas/service/ClienteService.java
+/Users/edcastillo/NetBeansProjects/SistemaVentas/src/main/java/org/ipn/sistemaventas/service/impl/ClienteServiceImpl.java
+/Users/edcastillo/NetBeansProjects/SistemaVentas/src/main/java/org/ipn/sistemaventas/model/ClienteDTO.java
+/Users/edcastillo/NetBeansProjects/SistemaVentas/src/main/java/org/ipn/sistemaventas/dao/impl/ClienteDAOImpl.java
+/Users/edcastillo/NetBeansProjects/SistemaVentas/src/main/java/org/ipn/sistemaventas/dao/SistemaVentasConnection.java
+/Users/edcastillo/NetBeansProjects/SistemaVentas/src/main/java/org/ipn/sistemaventas/dao/ClienteDAO.java
